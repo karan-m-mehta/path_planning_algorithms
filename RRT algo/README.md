@@ -4,7 +4,7 @@ The code implements RRT (Rapidly exploring Random Trees) path planning algorithm
 
 The start, goal and obstacle co-ordinates can be changed from within the code itself.
 
-### Dependencies
+### Dependencies:
 <ul>
     <li>
         <a href="https://numpy.org/" >NumPy</a>
@@ -14,6 +14,7 @@ The start, goal and obstacle co-ordinates can be changed from within the code it
     </li>
 </ul>
 
+### To execute the code:
 <ul>
     <li>
     Download the dependencies first.
