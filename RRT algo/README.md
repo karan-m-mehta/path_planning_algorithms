@@ -20,6 +20,6 @@ The start, goal and obstacle co-ordinates can be changed from within the code it
     Download the dependencies first.
     </li>
     <li>
-    Then execute the following command - '''python3 rrt_algo.py''' in the directory of the code file
+    Then execute the following command - `python3 rrt_algo.py` in the directory of the code file
     </li>
 </ul>
