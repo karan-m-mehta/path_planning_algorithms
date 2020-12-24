@@ -238,7 +238,7 @@ def main(gx=14.0, gy=14.0):
             rrt.draw_graph()
             plt.plot([x for (x, y) in path], [y for (x, y) in path], '-r')
             plt.grid(True)
-            plt.pause(0.01)  # Need for Mac
+            plt.pause(0.01)
             plt.show()
 
 
